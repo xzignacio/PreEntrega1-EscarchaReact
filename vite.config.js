@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://xzignacio.github.io/PreEntrega1-EscarchaReact"
+  base: "/PreEntrega1-EscarchaReact/"
 })
 
